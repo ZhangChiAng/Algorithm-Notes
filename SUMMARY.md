@@ -1,4 +1,19 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [算法笔记](README.md)
+* [2. C/C++快速入门](2.-cc++-kuai-su-ru-men/README.md)
+  * [2.1 基本数据类型](2.-cc++-kuai-su-ru-men/2.1-ji-ben-shu-ju-lei-xing.md)
+  * [2.2 顺序结构](2.-cc++-kuai-su-ru-men/2.2-shun-xu-jie-gou.md)
+  * [2.3 选择结构](2.-cc++-kuai-su-ru-men/2.3-xuan-ze-jie-gou.md)
+  * [2.4 循环结构](2.-cc++-kuai-su-ru-men/2.4-xun-huan-jie-gou.md)
+  * [2.5 数组](2.-cc++-kuai-su-ru-men/2.5-shu-zu.md)
+  * [2.6 函数](2.-cc++-kuai-su-ru-men/2.6-han-shu.md)
+  * [2.7 指针](2.-cc++-kuai-su-ru-men/2.7-zhi-zhen.md)
+  * [2.8 struct](2.-cc++-kuai-su-ru-men/2.8-struct.md)
+  * [2.9 补充](2.-cc++-kuai-su-ru-men/2.9-bu-chong.md)
+* [6. C++标准模板库（STL）](6.-c++-biao-zhun-mo-ban-ku-stl/README.md)
+  * [6.1 vector](6.-c++-biao-zhun-mo-ban-ku-stl/6.1-vector.md)
+  * [6.2 set](6.-c++-biao-zhun-mo-ban-ku-stl/6.2-set.md)
+  * [6.3 string](6.-c++-biao-zhun-mo-ban-ku-stl/6.3-string.md)
+  * [6.4 map](6.-c++-biao-zhun-mo-ban-ku-stl/6.4-map.md)
 
