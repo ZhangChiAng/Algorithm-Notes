@@ -18,4 +18,7 @@
   * [6.4 map](6.-c++-biao-zhun-mo-ban-ku-stl/6.4-map.md)
   * [6.5 queue](6.-c++-biao-zhun-mo-ban-ku-stl/6.5-queue.md)
   * [6.6 priority\_queue](6.-c++-biao-zhun-mo-ban-ku-stl/6.6-priority_queue.md)
+  * [6.7 stack](6.-c++-biao-zhun-mo-ban-ku-stl/6.7-stack.md)
+  * [6.8 pair](6.-c++-biao-zhun-mo-ban-ku-stl/6.8-pair.md)
+  * [6.9 algorithm](6.-c++-biao-zhun-mo-ban-ku-stl/6.9-algorithm.md)
 
