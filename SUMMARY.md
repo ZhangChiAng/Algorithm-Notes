@@ -16,4 +16,6 @@
   * [6.2 set](6.-c++-biao-zhun-mo-ban-ku-stl/6.2-set.md)
   * [6.3 string](6.-c++-biao-zhun-mo-ban-ku-stl/6.3-string.md)
   * [6.4 map](6.-c++-biao-zhun-mo-ban-ku-stl/6.4-map.md)
+  * [6.5 queue](6.-c++-biao-zhun-mo-ban-ku-stl/6.5-queue.md)
+  * [6.6 priority\_queue](6.-c++-biao-zhun-mo-ban-ku-stl/6.6-priority_queue.md)
 
