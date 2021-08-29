@@ -21,4 +21,5 @@
   * [6.7 stack](6.-c++-biao-zhun-mo-ban-ku-stl/6.7-stack.md)
   * [6.8 pair](6.-c++-biao-zhun-mo-ban-ku-stl/6.8-pair.md)
   * [6.9 algorithm](6.-c++-biao-zhun-mo-ban-ku-stl/6.9-algorithm.md)
+  * [6.10 其它](6.-c++-biao-zhun-mo-ban-ku-stl/6.10-qi-ta.md)
 
