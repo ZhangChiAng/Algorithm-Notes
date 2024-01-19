@@ -35,3 +35,6 @@
   * [7.1 栈的应用](7.-shu-ju-jie-gou-zhuan-ti-1/7.1-zhan-de-ying-yong.md)
   * [7.2 队列的应用](7.-shu-ju-jie-gou-zhuan-ti-1/7.2-dui-lie-de-ying-yong.md)
   * [7.3 链表的处理](7.-shu-ju-jie-gou-zhuan-ti-1/7.3-lian-biao-de-chu-li.md)
+* [8. 搜索专题](8.-sou-suo-zhuan-ti/README.md)
+  * [8.1 深度优先搜索（DFS）](8.-sou-suo-zhuan-ti/8.1-shen-du-you-xian-sou-suo-dfs.md)
+  * [8.2 广度优先搜索（BFS）](8.-sou-suo-zhuan-ti/8.2-guang-du-you-xian-sou-suo-bfs.md)
