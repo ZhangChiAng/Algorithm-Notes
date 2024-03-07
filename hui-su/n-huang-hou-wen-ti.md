@@ -2,10 +2,11 @@
 
 问题：根据国际象棋的规则，皇后可以攻击与同处一行、一列或一条斜线上的棋子。给定 个皇后和一个 大小的棋盘，寻找使得所有皇后之间无法相互攻击的摆放方案。
 
+{% code fullWidth="true" %}
 ```cpp
 /* 回溯算法：n 皇后 */
-void backtrack(int row, int n, vector<vector<string>> &state, vector<vector<vector<string>>> &res, vector<bool> &cols,
-               vector<bool> &diags1, vector<bool> &diags2) {
+void backtrack(int row, int n, vector<vector<string>> &state, vector<vector<vector<string>>> &res,
+               vector<bool> &cols, vector<bool> &diags1, vector<bool> &diags2) {
     // 当放置完所有行时，记录解
     if (row == n) {
         res.push_back(state);
@@ -44,3 +45,4 @@ vector<vector<vector<string>>> nQueens(int n) {
     return res;
 }
 ```
+{% endcode %}
