@@ -7,7 +7,7 @@ bool is_prime(int n) {
     if(n <= 1)
         return false;
     int sqr = (int)sqrt(1.0 * n);
-    for(int i = 2; i < sqr; i++) {
+    for(int i = 2; i <= sqr; i++) {
         if(n % i == 0)
             return false;
     }

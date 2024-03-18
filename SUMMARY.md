@@ -24,6 +24,7 @@
   * [最大公约数、最小公倍数、互质](shu-xue-wen-ti/zui-da-gong-yue-shu-zui-xiao-gong-bei-shu-hu-zhi.md)
   * [素数](shu-xue-wen-ti/su-shu.md)
   * [质因子分解](shu-xue-wen-ti/zhi-yin-zi-fen-jie.md)
+  * [组合数](shu-xue-wen-ti/zu-he-shu.md)
 * [6. C++标准模板库（STL）](6.-c++-biao-zhun-mo-ban-ku-stl/README.md)
   * [6.1 vector](6.-c++-biao-zhun-mo-ban-ku-stl/6.1-vector.md)
   * [6.2 set](6.-c++-biao-zhun-mo-ban-ku-stl/6.2-set.md)
