@@ -19,13 +19,13 @@ import java.util.LinkedList;
 LinkedList<E> list = new LinkedList<E>();
 ```
 
-#### 构造器方法
+#### 构造方法
 
 ```java
 LinkedList()    //构造一个空列表。
 ```
 
-#### 常用方法
+#### 实例方法
 
 ```java
 void addFirst(E e)    //在此列表的开头插入指定的元素。

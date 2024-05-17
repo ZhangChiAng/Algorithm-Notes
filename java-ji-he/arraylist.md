@@ -17,7 +17,7 @@ ArrayList()    //构造一个初始容量为10的空列表。
 ArrayList​(int initialCapacity)    //构造具有指定初始容量的空列表。
 ```
 
-#### 常用方法
+#### 实例方法
 
 {% code fullWidth="false" %}
 ```java
