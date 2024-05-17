@@ -1,6 +1,7 @@
 # Table of contents
 
 * [算法笔记](README.md)
+* [1. VSCode配置C/C++环境](1.-vscode-pei-zhi-cc++-huan-jing.md)
 * [2. C/C++快速入门](2.-cc++-kuai-su-ru-men/README.md)
   * [2.1 基本数据类型](2.-cc++-kuai-su-ru-men/2.1-ji-ben-shu-ju-lei-xing.md)
   * [2.2 顺序结构](2.-cc++-kuai-su-ru-men/2.2-shun-xu-jie-gou.md)
@@ -12,6 +13,7 @@
   * [2.8 struct](2.-cc++-kuai-su-ru-men/2.8-struct.md)
   * [2.9 补充](2.-cc++-kuai-su-ru-men/2.9-bu-chong.md)
   * [2.10 多点测试](2.-cc++-kuai-su-ru-men/2.10-duo-dian-ce-shi.md)
+* [3. Java快速入门](3.-java-kuai-su-ru-men.md)
 * [4. 算法初步](4.-suan-fa-chu-bu/README.md)
   * [4.1 排序](4.-suan-fa-chu-bu/4.1-pai-xu.md)
   * [4.2 散列](4.-suan-fa-chu-bu/4.2-san-lie.md)
@@ -36,6 +38,9 @@
   * [6.8 pair](6.-c++-biao-zhun-mo-ban-ku-stl/6.8-pair.md)
   * [6.9 algorithm](6.-c++-biao-zhun-mo-ban-ku-stl/6.9-algorithm.md)
   * [6.10 其它](6.-c++-biao-zhun-mo-ban-ku-stl/6.10-qi-ta.md)
+* [Java集合](java-ji-he/README.md)
+  * [ArrayList](java-ji-he/arraylist.md)
+  * [LinkedList](java-ji-he/linkedlist.md)
 * [7. 数据结构专题（1）](7.-shu-ju-jie-gou-zhuan-ti-1/README.md)
   * [7.1 栈的应用](7.-shu-ju-jie-gou-zhuan-ti-1/7.1-zhan-de-ying-yong.md)
   * [7.2 队列的应用](7.-shu-ju-jie-gou-zhuan-ti-1/7.2-dui-lie-de-ying-yong.md)
