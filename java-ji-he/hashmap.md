@@ -28,8 +28,8 @@ Set<Map.Entry<K,​V>> entrySet()    //返回此映射中包含的映射的Set�
 Set<K> keySet()    //返回此映射中包含的键的Set视图。
 Collection<V> values()    //返回此映射中包含的值的Collection视图。
 
-boolean containsKey​(Object key)    //如果此映射包含指定键的映射，则返回 true 。
-boolean containsValue​(Object value)    //如果此映射将一个或多个键映射到指定值，则返回 true 。
+boolean containsKey(Object key)    //如果此映射包含指定键的映射，则返回 true 。
+boolean containsValue(Object value)    //如果此映射将一个或多个键映射到指定值，则返回 true 。
 ```
 
 #### Map.Entry
@@ -37,5 +37,5 @@ boolean containsValue​(Object value)    //如果此映射将一个或多个键
 ```java
 K getKey()    //返回与此条目对应的键。
 V getValue()    //返回与此条目对应的值。
-V setValue​(V value)    //用指定的值替换此条目对应的值（可选操作）。
+V setValue(V value)    //用指定的值替换此条目对应的值（可选操作）。
 ```

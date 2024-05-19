@@ -42,7 +42,7 @@
   * [ArrayList](java-ji-he/arraylist.md)
   * [HashSet](java-ji-he/hashset.md)
   * [String](java-ji-he/string.md)
-  * [StringBuffer](java-ji-he/stringbuffer.md)
+  * [StringBuilder](java-ji-he/stringbuilder.md)
   * [HashMap](java-ji-he/hashmap.md)
   * [LinkedList](java-ji-he/linkedlist.md)
   * [PriorityQueue](java-ji-he/priorityqueue.md)
