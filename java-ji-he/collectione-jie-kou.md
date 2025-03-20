@@ -1,4 +1,4 @@
-# Collection接口
+# Collection\<E>接口
 
 ## 常用API
 
@@ -24,7 +24,7 @@ boolean addAll(Collection<? extends E> other)
 
 boolean remove(Object obj)
 // 从这个集合中删除等于obj的对象。如果有匹配的对象被删除，返回true。
-boolean remvoeAll(Collection<?> other)
+boolean removeAll(Collection<?> other)
 // 从这个集合中删除other集合中存在的所有元素。如果由于这个调用改变改变了集合，返回true。
 default boolean removeIf(Predicate<? super E> filter)
 // 从这个集合删除filter返回true的所有元素。如果由于这个调用改变改变了集合，返回true。
